@@ -11,19 +11,19 @@
 
 <table align="center">
 <tr>
-<td width="28%" align="center">
-<img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=lohit-mishra&backgroundColor=0a0014&primaryColorLevel=600" width="170"/>
+<td width="30%" align="center">
+<img src="https://api.dicebear.com/9.x/bottts/svg?seed=lohit-mishra&backgroundColor=2d0140,4a0e63&backgroundType=gradientLinear&radius=16" width="230" height="230"/>
 </td>
-<td width="72%">
+<td width="70%">
 
 ```
-┌──────────────────────────────────────────────┐
-│  guest@lohitmishra:~$ whoami                  │
-│  > Software Engineer · AI/ML Engineer         │
-│  guest@lohitmishra:~$ status                  │
-│  > [ ONLINE ]  building agentic systems...    │
-│  guest@lohitmishra:~$ _                       │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│  guest@lohitmishra:~$ whoami                    │
+│  > Software Engineer · AI/ML Engineer           │
+│  guest@lohitmishra:~$ status                    │
+│  > [ ONLINE ]  building agentic systems...      │
+│  guest@lohitmishra:~$ _                         │
+└────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -60,29 +60,48 @@ I like teaching machines to **read, retrieve, and reason**. My work lives at the
 
 ### `⚡ tech_stack`
 
+<table>
+<tr><td width="18%"><b>Languages</b></td><td>
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<br/>
+
+</td></tr>
+<tr><td><b>AI / ML</b></td><td>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-<br/>
+
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td></tr>
+<tr><td><b>Data</b></td><td>
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-<br/>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td></tr>
+<tr><td><b>Cloud</b></td><td>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</td></tr>
+</table>
 
 </div>
 
